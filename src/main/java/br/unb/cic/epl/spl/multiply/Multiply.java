@@ -14,4 +14,5 @@ public class Multiply implements Expression {
     public String print() {
         return "(" + lhs.print() + " * " + rhs.print() + ")";
     }
+
 }
