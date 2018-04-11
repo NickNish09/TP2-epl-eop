@@ -5,7 +5,7 @@ import br.unb.cic.epl.spl.Expression;
 // Java program to construct an expression tree
 
 
-public class Height extends {
+public class Height implements Expression{
     private Expression lhs;
     private Expression rhs;
 

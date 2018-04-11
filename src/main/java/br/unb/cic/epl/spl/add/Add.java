@@ -12,7 +12,7 @@ public class Add implements Expression {
 	}
 
 	public String print() {
-		return "(" + lhs.print() + " + " + rhs.print() + ")";
+		return lhs.print() + "+" + rhs.print();
 	}
 
 }

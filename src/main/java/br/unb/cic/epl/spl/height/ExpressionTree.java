@@ -31,13 +31,13 @@ public class ExpressionTree {
         Stack<Node> st = new Stack();
         Node t, t1, t2;
 
-        // Traverse through every character of
+        // Traverse through eveHeiry character of
         // input expression
         for (int i = 0; i < postfix.length; i++) {
 
             // If operand, simply push into stack
             if(postfix[i] == '(' || postfix[i] == ')' || postfix[i] == ' '){
-
+                i++;
             }
             else if (!isOperator(postfix[i])) {
                 t = new Node(postfix[i]);
@@ -65,7 +65,8 @@ public class ExpressionTree {
         // tree
         t = st.peek();
         st.pop();
-
+        System.out.println("Left: "+t.left);
+        System.out.println("Right: "+t.right);
         return t;
     }
 

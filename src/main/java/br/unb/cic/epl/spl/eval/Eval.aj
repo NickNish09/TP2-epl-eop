@@ -4,9 +4,13 @@ import br.unb.cic.epl.spl.Literal;
 
 public privileged aspect Eval {
 	public abstract Integer br.unb.cic.epl.spl.Expression.eval();
+	public abstract Integer br.unb.cic.epl.spl.Expression.evalHeight();
 	
 	public Integer br.unb.cic.epl.spl.Literal.eval() {
 		return value;
+	}
+	public Integer br.unb.cic.epl.spl.Literal.evalHeight() {
+		return 1;
 	}
 	
 	pointcut allMainMethods(): execution(* br.unb.cic.epl.spl.Main.*(**));
@@ -25,5 +29,5 @@ public privileged aspect Eval {
 		m.expressions.add(new br.unb.cic.epl.spl.subtract.Subtract(new br.unb.cic.epl.spl.Literal(12),new br.unb.cic.epl.spl.Literal(16)));
 		m.expressions.add(new br.unb.cic.epl.spl.multiply.Multiply(new br.unb.cic.epl.spl.Literal(12),new br.unb.cic.epl.spl.Literal(16)));
 	}
-	
+
 }

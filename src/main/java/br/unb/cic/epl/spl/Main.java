@@ -2,9 +2,8 @@ package br.unb.cic.epl.spl;
 
 import br.unb.cic.epl.spl.add.Add;
 import br.unb.cic.epl.spl.height.ExpressionTree;
+import br.unb.cic.epl.spl.height.Height;
 import br.unb.cic.epl.spl.height.Node;
-import br.unb.cic.epl.spl.multiply.Multiply;
-import br.unb.cic.epl.spl.subtract.Subtract;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,34 +24,25 @@ public class Main {
 
 	//////
 
-	Literal l = new Literal(12);
-	Literal m = new Literal(16);
+	Literal l = new Literal(7);
+	Literal m = new Literal(3);
 	Add l_m = new Add(l,m);
 	Add ultra = new Add(l_m,m);
-
-
-	ExpressionTree et = new ExpressionTree();
-	String postfix = l_m.print();
-	char[] charArray = postfix.toCharArray();
-	Node root = et.constructTree(charArray);
-
-
-	public void printNode(){
-		System.out.println("Node: "+root.getValue());
-	}
-
+	Add semi_ultra = new Add(l_m,ultra);
+    Height altura = new Height(l_m,ultra);
 	public void createExpressions() {
 		expressions.add(new Literal(101));
 		expressions.add(ultra);
+		expressions.add(altura);
 		//expressions.add(new Literal(10));
 	}
 	
 	public static void main(String args[]) {
 		instance().createExpressions();
-		instance().printNode();
 		for(Expression e: instance().expressions) {
-			System.out.println(e.print());
-			System.out.println(e.eval());
+			System.out.println("Expression: "+e.print());
+			System.out.println("Conta: "+e.evaal());
+			System.out.println("Altura: "+e.evalHeight());
 		}
 
 	}
