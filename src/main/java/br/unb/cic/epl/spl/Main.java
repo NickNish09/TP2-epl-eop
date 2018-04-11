@@ -41,7 +41,7 @@ public class Main {
 		instance().createExpressions();
 		for(Expression e: instance().expressions) {
 			System.out.println("Expression: "+e.print());
-			System.out.println("Conta: "+e.evaal());
+			System.out.println("Conta: "+e.eval());
 			System.out.println("Altura: "+e.evalHeight());
 		}
 

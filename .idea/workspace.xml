@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59955377-1142-4ea3-a071-79c44eb3e846" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/AddEval.aj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/AddEval.aj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/Eval.aj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/Eval.aj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/MultiplyEval.aj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/MultiplyEval.aj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/SubtractEval.aj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/SubtractEval.aj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/ExpressionTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/ExpressionTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Height.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Height.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +15,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Add.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AddEval.aj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/AddEval.aj">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+            <state relative-caret-position="678">
+              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,18 +126,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeightEval.aj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/HeightEval.aj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -163,7 +153,6 @@
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Expression.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Height/Height.aj" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/ExpressionTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Height.aj" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/HeightEval.aj" />
@@ -174,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/MultiplyEval.aj" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/SubtractEval.aj" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java" />
       </list>
     </option>
   </component>
@@ -496,7 +486,7 @@
       <workItem from="1523291880582" duration="14389000" />
       <workItem from="1523359894804" duration="4051000" />
       <workItem from="1523472740008" duration="6236000" />
-      <workItem from="1523482664633" duration="6426000" />
+      <workItem from="1523482664633" duration="7222000" />
     </task>
     <servers />
   </component>
@@ -518,7 +508,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35937000" />
+    <option name="totallyTimeSpent" value="36733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="90" y="-5" width="1831" height="1086" extended-state="6" />
@@ -858,13 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/multiply/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -958,11 +941,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        <state relative-caret-position="678">
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
