@@ -10,5 +10,6 @@ public class SubtractTest extends TestCase {
         Subtract mult = new Subtract(literal1000,literal5);
         assertEquals("(1000 - 5)", mult.print());
         assertEquals("995", mult.eval().toString());
+        assertEquals("2", mult.evalHeight().toString());
     }
 }

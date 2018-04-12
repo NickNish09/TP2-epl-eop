@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59955377-1142-4ea3-a071-79c44eb3e846" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/add/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/add/AddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/multiply/MultiplyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/multiply/MultiplyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/subtract/SubtractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/subtract/SubtractTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Add.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Add.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="252">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -27,40 +29,30 @@
       <file leaf-file-name="AddEval.aj" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/AddEval.aj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="144">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#119#120#0" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiplyEval.aj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/MultiplyEval.aj">
+      <file leaf-file-name="SubtractTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/subtract/SubtractTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Literal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Literal.java">
+      <file leaf-file-name="MultiplyTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/multiply/MultiplyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -69,7 +61,29 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/ExpressionTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
-              <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeightEval.aj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/HeightEval.aj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Eval.aj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/Eval.aj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" column="56" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -86,8 +100,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+            <state relative-caret-position="360">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,33 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Eval.aj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/Eval.aj">
+      <file leaf-file-name="AddTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/add/AddTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubtractEval.aj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/SubtractEval.aj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Expression.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -145,9 +137,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/subtract/subtract.java" />
         <option value="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/LiteralTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/multiply/MultiplyTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/subtract/SubtractTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/add/AddTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/multiply/Multiply.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/subtract/Subtract.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Expression.java" />
@@ -164,6 +153,9 @@
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/SubtractEval.aj" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/add/AddTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/subtract/SubtractTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/multiply/MultiplyTest.java" />
       </list>
     </option>
   </component>
@@ -185,7 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -234,7 +226,28 @@
               <item name="spl" type="b2602c69:ProjectViewProjectNode" />
               <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spl" type="462c0819:PsiDirectoryNode" />
               <item name="add" type="462c0819:PsiDirectoryNode" />
@@ -243,7 +256,7 @@
               <item name="spl" type="b2602c69:ProjectViewProjectNode" />
               <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spl" type="462c0819:PsiDirectoryNode" />
               <item name="eval" type="462c0819:PsiDirectoryNode" />
@@ -252,16 +265,7 @@
               <item name="spl" type="b2602c69:ProjectViewProjectNode" />
               <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spl" type="462c0819:PsiDirectoryNode" />
-              <item name="height" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spl" type="462c0819:PsiDirectoryNode" />
               <item name="multiply" type="462c0819:PsiDirectoryNode" />
@@ -270,58 +274,10 @@
               <item name="spl" type="b2602c69:ProjectViewProjectNode" />
               <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spl" type="462c0819:PsiDirectoryNode" />
               <item name="subtract" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spl" type="462c0819:PsiDirectoryNode" />
-              <item name="add" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spl" type="462c0819:PsiDirectoryNode" />
-              <item name="eval" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epl-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spl" type="462c0819:PsiDirectoryNode" />
-              <item name="multiply" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spl" type="b2602c69:ProjectViewProjectNode" />
@@ -331,7 +287,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.AddTest">
     <configuration name="All in spl" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="spl" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -397,6 +353,29 @@
       <option name="MAIN_CLASS_NAME" value="br.unb.cic.epl.spl.Main" />
       <module name="spl" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.unb.cic.epl.spl.add.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="br.unb.cic.epl.spl.add" />
+      <option name="MAIN_CLASS_NAME" value="br.unb.cic.epl.spl.add.AddTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="MultiplyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spl" />
@@ -463,9 +442,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Android JUnit.All in spl" />
       <item itemvalue="JUnit.MultiplyTest" />
+      <item itemvalue="JUnit.AddTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AddTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MultiplyTest" />
         <item itemvalue="Android JUnit.All in spl" />
@@ -486,7 +467,9 @@
       <workItem from="1523291880582" duration="14389000" />
       <workItem from="1523359894804" duration="4051000" />
       <workItem from="1523472740008" duration="6236000" />
-      <workItem from="1523482664633" duration="7222000" />
+      <workItem from="1523482664633" duration="7262000" />
+      <workItem from="1523560688167" duration="3983000" />
+      <workItem from="1523574888209" duration="441000" />
     </task>
     <servers />
   </component>
@@ -508,7 +491,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36733000" />
+    <option name="totallyTimeSpent" value="41197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="90" y="-5" width="1831" height="1086" extended-state="6" />
@@ -516,6 +499,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32983193" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -537,7 +521,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32983193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -777,31 +760,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/subtract/subtract.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/subtract/SubtractTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/add/AddTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Height/Height.aj" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/multiply/MultiplyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/src/main/java/br/unb/cic/epl/spl/Main.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -816,13 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/eval/EvalTest.aj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/subtract/Subtract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -830,24 +782,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Height.aj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Height.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Height.aj" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/multiply/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -855,12 +790,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/HeightEval.aj">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Literal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/MultiplyEval.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -872,10 +819,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/Height.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/SubtractEval.aj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="e#137#138#0" expanded="true" />
             <element signature="e#183#184#0" expanded="true" />
@@ -883,52 +837,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/Eval.aj">
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/eval/EvalTest.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/add/AddTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/AddEval.aj">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="360">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
           <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/MultiplyEval.aj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Literal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/ExpressionTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -939,20 +868,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/Eval.aj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+        <state relative-caret-position="162">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/HeightEval.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/height/ExpressionTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/add/Add.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="252">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/unb/cic/epl/spl/eval/AddEval.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/subtract/SubtractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/unb/cic/epl/spl/multiply/MultiplyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>

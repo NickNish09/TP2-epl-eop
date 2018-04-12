@@ -10,5 +10,6 @@ public class MultiplyTest extends TestCase {
         Multiply mult = new Multiply(literal1000,literal5);
         assertEquals("(1000 * 5)", mult.print());
         assertEquals("5000", mult.eval().toString());
+        assertEquals("2", mult.evalHeight().toString());
     }
 }

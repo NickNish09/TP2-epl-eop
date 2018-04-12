@@ -10,5 +10,6 @@ public class AddTest extends TestCase {
         Add mult = new Add(literal1000,literal5);
         assertEquals("(1000 + 5)", mult.print());
         assertEquals("1005", mult.eval().toString());
+        assertEquals("2",mult.evalHeight().toString());
     }
 }
